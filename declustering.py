@@ -49,7 +49,8 @@ def declustering(
 ):
     """
 
-    Martín, Ariadna and Wahl, Thomas and Rodriguez Enriquez, Alejandra and Jane, Robert.
+    Ariadna Martín, Thomas Wahl, Alejandra R. Enriquez, Robert Jane
+
     Storm Surge Time Series De-Clustering Using Correlation Analysis
 
     dataframe -> input dataframe;
