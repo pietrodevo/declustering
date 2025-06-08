@@ -2,7 +2,7 @@
 
 This repository contains the **declustering** method function python implementation from the original MATLAB code.  
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/AriadnaMartin98/De-clustering_method/tree/main) 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/AriadnaMartin98/De-clustering_method/tree/main)  
 [![DOI](https://img.shields.io/badge/DOI-10.1029%2F2024GL113576-blue)](https://doi.org/10.1016/j.wace.2024.100701)  
 
 Documentation is incomplete and in progress.
