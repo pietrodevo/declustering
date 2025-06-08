@@ -6,7 +6,6 @@ This repository contains the **declustering** method function python implementat
 > Ariadna Martín, Thomas Wahl, Alejandra R. Enriquez, Robert Jane  
 
 [![DOI](https://img.shields.io/badge/DOI-10.1029%2F2024GL113576-blue)](https://doi.org/10.1016/j.wace.2024.100701)  
-
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/AriadnaMartin98/De-clustering_method/tree/main)  
 
 Documentation is incomplete and in progress.
